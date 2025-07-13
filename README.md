@@ -25,7 +25,7 @@ Parallel-Sh can be easily integrated with tools like Husky to automatically run 
 
 ### Video Example
 
-<video src="assets/parallel-sh-demo.mov" controls width="500">
+<video src="assets/test-example.mp4" controls width="500">
 </video>
 
 
