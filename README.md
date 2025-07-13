@@ -25,9 +25,10 @@ Parallel-Sh can be easily integrated with tools like Husky to automatically run 
 
 ### Video Example
 
-<video src="./assets/test-example.mp4" width="100%" controls>
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/26fee2bf-5696-4dcc-a484-2a2099050718
+
+
 
 
 
