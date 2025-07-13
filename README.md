@@ -17,6 +17,21 @@ Parallel-Sh can be easily integrated with tools like Husky to automatically run 
 - 🛡️ **Auto Cleanup**: Automatic cleanup of temporary files
 - 📋 **Detailed Error Reports**: In-depth analysis of failed tests
 
+## 📂 Diagram & Demo
+
+
+
+![Example Diagram](assets/parallel-sh.diagram.png)
+
+### Video Example
+
+<video src="assets/parallel-sh-demo.mov" controls width="500">
+</video>
+
+
+
+
+
 ## 🚀 Quick Start
 
 ### 1. Installation
@@ -269,19 +284,4 @@ tmux attach-session -t parallel-tests
 2. **Use Mocks**: Mock heavy operations
 3. **Optimize Parallelism**: Adjust based on CPU core count
 4. **Memory Management**: Increase Node.js memory limit
-
-
-
-## 📂 Diagram & Demo
-
-
-
-![Örnek Görsel](assets/parallel-sh.diagram.png)
-
-### Örnek Video
-
-<video src="assets/parallel-sh-demo.mov" controls width="500">
-</video>
-
-
 
