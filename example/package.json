@@ -1,0 +1,16 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test:group1": "jest --testPathPattern='src/domains/(user)'",
+    "test:group2": "jest --testPathPattern='src/domains/(calculator)'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
